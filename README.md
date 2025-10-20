@@ -1,5 +1,9 @@
 # Hand Gesture Recognition with Mediapipe & LSTM
 
+<p align="center">
+  <img src="image/Hand_Gesture_Recognition.png" alt="Grad-CAM visualization" width="600"/>
+</p>
+
 This project implements a **real-time hand gesture recognition system** using **Mediapipe** for hand landmark detection and an **LSTM deep learning model** for sequence classification.  
 The system recognizes five common gestures and maps them to multimedia control actions such as volume adjustment, video navigation, and play/pause.
 
